@@ -33,7 +33,7 @@ const Footer = () => {
                     {/* Brand Section */}
                     <div className="flex flex-col items-center md:items-start space-y-1">
                         <div className="flex items-center gap-3">
-                            <img src="/images/logo.png" alt="AR Coder Logo" className="w-10 h-10 object-contain" />
+                            <img src="/images/1770382658096.png" alt="AR Coder Logo" className="w-10 h-10 object-contain rounded-lg shadow-[0_0_10px_rgba(0,242,254,0.2)]" />
                             <span className="text-xl font-bold text-white tracking-wider">Coder</span>
                         </div>
                         <p className="text-gray-500 text-[10px] max-w-xs text-center md:text-start leading-relaxed opacity-60">

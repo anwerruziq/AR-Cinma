@@ -33,9 +33,9 @@ const Navbar = () => {
                     {/* Logo - Automatically positions based on dir */}
                     <Link to="/" className="flex items-center gap-2 group">
                         <img
-                            src="/images/logo.png"
+                            src="/images/1770382658096.png"
                             alt="AR Coder Logo"
-                            className="w-10 h-10 object-contain transform group-hover:scale-110 transition-transform duration-300 rounded-lg"
+                            className="w-10 h-10 object-contain transform group-hover:scale-110 transition-transform duration-300 rounded-lg shadow-[0_0_15px_rgba(0,242,254,0.3)]"
                         />
                         <span className="text-white font-bold text-xl hidden sm:block">
                             {t('cinema')}
